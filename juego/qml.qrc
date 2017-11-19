@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Respuestas.qml</file>
+        <file>Tablero.qml</file>
+        <file>Pregunta.qml</file>
+        <file>Fondo.qml</file>
+        <file>Preguntas.json</file>
+        <file>SetJuego.qml</file>
+        <file>Cronometro.qml</file>
+        <file>background.jpg</file>
+        <file>Marcador.qml</file>
+        <file>DelegadoCasilla.qml</file>
+    </qresource>
+</RCC>
